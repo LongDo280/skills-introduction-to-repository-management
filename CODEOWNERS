@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @LongDo280
+/src/backend/database.py      @LongDo280
+/src/backend/routers/auth.py  @LongDo280
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @LongDo280
